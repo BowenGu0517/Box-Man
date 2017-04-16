@@ -1,0 +1,12 @@
+﻿  Main.cpp
+d:\vip11\推箱子\推箱子\main.cpp(108): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\vip11\推箱子\推箱子\main.cpp(116): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\vip11\推箱子\推箱子\main.cpp(931): warning C4553: '==': operator has no effect; did you intend '='?
+d:\vip11\推箱子\推箱子\main.cpp(675): warning C4715: 'actionRight': not all control paths return a value
+d:\vip11\推箱子\推箱子\main.cpp(1013): warning C4715: 'actionDown': not all control paths return a value
+d:\vip11\推箱子\推箱子\main.cpp(506): warning C4715: 'actionLeft': not all control paths return a value
+d:\vip11\推箱子\推箱子\main.cpp(844): warning C4715: 'actionUp': not all control paths return a value
+  推箱子.vcxproj -> D:\VIP11\推箱子\Debug\推箱子.exe
+  推箱子.vcxproj -> D:\VIP11\推箱子\Debug\推箱子.pdb (Full PDB)
